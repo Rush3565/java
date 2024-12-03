@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class arrr2 {
+public class sumInArr {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

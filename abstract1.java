@@ -12,7 +12,7 @@ class Cat extends Animal {
   }
 }
 
-class ab1 {
+class abstract1 {
   public static void main(String[] args) {
     Cat myCat = new Cat(); 
     myCat.animalSound();
