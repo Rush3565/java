@@ -11,7 +11,6 @@ public class genericClass {
     public static void main(String[] args) {
         generic <Integer> g1 = new generic<Integer>();
         generic <String> g2 = new generic<String>();
-        // Integer k = new Integer(5);
         Integer k = 5;
         g1.add(k);
         g2.add("rahul");
